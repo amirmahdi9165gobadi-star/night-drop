@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NightDrop</string>
+    <string name="hero_banner_desc">تصویر پس‌زمینه شبانه مدیریت دانلود</string>
+    <string name="notif_channel_execution_name">اجرای زمان‌بندی شبانه</string>
+    <string name="notif_channel_execution_desc">نمایش وضعیت بیدارسازی و دانلود خودکار شبانه</string>
+    <string name="notif_channel_complete_name">تکمیل دانلود شبانه</string>
+    <string name="notif_channel_complete_desc">اعلان اتمام دانلود و اجرای توالی پایانی</string>
+    <string name="service_running_title">مدیریت دانلود شبانه فعال است</string>
+    <string name="service_running_pre">در حال اجرای توالی پیش از دانلود...</string>
+    <string name="service_running_wait">در حال تثبیت شبکه...</string>
+    <string name="service_running_download">دانلود در پس‌زمینه آغاز شد</string>
+    <string name="service_running_post">دانلود تکمیل شد؛ اجرای توالی پایانی...</string>
+    <string name="accessibility_service_label">NightDrop اتوکلیکر شبانه</string>
+    <string name="accessibility_service_description">اجرای خودکار حرکات لمسی و سوایپ ضبط‌شده (روشن/خاموش کردن دیتای موبایل، انتخاب سیم‌کارت و مدیریت دانلود شبانه) با استفاده از dispatchGesture.</string>
+</resources>
