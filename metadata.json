@@ -1,0 +1,6 @@
+{
+  "name": "NightDrop",
+  "description": "Nightly download scheduler and in-app automation sequence builder with exact alarms, wake lock screen unlock, and DownloadManager tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
